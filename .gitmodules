@@ -1,0 +1,6 @@
+[submodule "DinemateBackend"]
+	path = DinemateBackend
+	url = https://github.com/kanishkaditya/DinemateBackend.git
+[submodule "DinemateApp"]
+	path = DinemateApp
+	url = https://github.com/vikrant-69/DinemateApp.git
